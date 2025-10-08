@@ -255,12 +255,7 @@
                         }
                     ]
                 },
-                "limitedApplicability": [
-                    {
-                        "startDateTime": "2025-10-01T00:00:00Z",
-                        "endDateTime": ""
-                    }
-                ],
+                "limitedApplicability": [],
                 "layer": {
                     "upper": 99999,
                     "upperReference": "AGL",
