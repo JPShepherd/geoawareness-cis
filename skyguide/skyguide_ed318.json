@@ -38,22 +38,22 @@
                 "type": "REQ_AUTHORIZATION",
                 "variant": "COMMON",
                 "message": [
-                    {
-                        "lang": "de-CH",
-                        "text": "Ausnahmebewilligungen können bei der zuständigen Stelle beantragt werden."
-                    },
-                    {
-                        "lang": "fr-CH",
-                        "text": "Des autorisations exceptionnelles peuvent être demandées auprès de l’autorité compétente."
-                    },
-                    {
-                        "lang": "it-CH",
-                        "text": "I permessi d’esenzione possono essere richiesti all’autorità competente."
-                    },
-                    {
-                        "lang": "en-GB",
-                        "text": "Exemption permits may be applied for at the competent authority."
-                    }
+                        {
+                            "lang": "de-CH",
+                            "text": "Der Betrieb von unbemannten Luftfahrzeugen mit einem Gewicht von mehr als 250 g ist ab einer Höhe von 120 m über Grund nur mit Ausnahmebewilligung erlaubt."
+                        },
+                        {
+                            "lang": "fr-CH",
+                            "text": "L'exploitation d'aéronefs sans occupants d'un poids supérieur à 250 g n'est autorisée que avec une autorisation exceptionnelle à partir d'une hauteur de 120 m audessus du sol."
+                        },
+                        {
+                            "lang": "it-CH",
+                            "text": "L’esercizio di aeromobili senza occupanti di peso superiore a 250 g è consentito a partire da un’altezza di 120 m sopra il suolo solo con permesso d’esenzione."
+                        },
+                        {
+                            "lang": "en-GB",
+                            "text": "The operation of unmanned aircraft weighing more than 250 g is only permitted from an altitude of 120 m above ground with exemption permit."
+                        }
                 ],
                 "reason": [
                     "AIR_TRAFFIC"
@@ -190,23 +190,23 @@
                 ],
                 "type": "REQ_AUTHORIZATION",
                 "variant": "COMMON",
-                                "message": [
-                    {
-                        "lang": "de-CH",
-                        "text": "Ausnahmebewilligungen können bei der zuständigen Stelle beantragt werden."
-                    },
-                    {
-                        "lang": "fr-CH",
-                        "text": "Des autorisations exceptionnelles peuvent être demandées auprès de l’autorité compétente."
-                    },
-                    {
-                        "lang": "it-CH",
-                        "text": "I permessi d’esenzione possono essere richiesti all’autorità competente."
-                    },
-                    {
-                        "lang": "en-GB",
-                        "text": "Exemption permits may be applied for at the competent authority."
-                    }
+                "message": [
+                        {
+                            "lang": "de-CH",
+                            "text": "Der Betrieb von unbemannten Luftfahrzeugen mit einem Gewicht von mehr als 250 g ist ab einer Höhe von 120 m über Grund nur mit Ausnahmebewilligung erlaubt."
+                        },
+                        {
+                            "lang": "fr-CH",
+                            "text": "L'exploitation d'aéronefs sans occupants d'un poids supérieur à 250 g n'est autorisée que avec une autorisation exceptionnelle à partir d'une hauteur de 120 m audessus du sol."
+                        },
+                        {
+                            "lang": "it-CH",
+                            "text": "L’esercizio di aeromobili senza occupanti di peso superiore a 250 g è consentito a partire da un’altezza di 120 m sopra il suolo solo con permesso d’esenzione."
+                        },
+                        {
+                            "lang": "en-GB",
+                            "text": "The operation of unmanned aircraft weighing more than 250 g is only permitted from an altitude of 120 m above ground with exemption permit."
+                        }
                 ],
                 "reason": [
                     "AIR_TRAFFIC"
